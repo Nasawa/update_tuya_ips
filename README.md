@@ -35,7 +35,7 @@ A robust Python-based utility designed to automate the migration of Tuya device 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Nasawa/update_tuya_ips.git
    cd tuya-migration-tool
    ```
 
